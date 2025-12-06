@@ -60,7 +60,7 @@ A secure password is automatically generated when the page loads.
 - **JavaScript** → Logic, validation, randomization, and event handling  
 
 ##  Screenshot
-<img width="1071" height="771" alt="image" src="https://github.com/user-attachments/assets/b3faa185-a29d-4049-aad7-ad2eca84a3bb" />
+![screen](https://github.com/user-attachments/assets/b18bc254-2852-477f-a9b8-20026f540808)
 
 ## 👩‍💻 Author
 **Salma EL Farouki**
